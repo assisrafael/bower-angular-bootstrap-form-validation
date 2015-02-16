@@ -1,5 +1,5 @@
 {
-  "name": "bower-angular-bootstrap-form-validation",
+  "name": "angular-bootstrap-form-validation",
   "version": "0.0.0",
   "description": "Distribution repo for [angular-bootstrap-form-validation](https://github.com/assisrafael/angular-bootstrap-form-validation). Please file issues and pull requests against that repo.",
   "main": "form-validation.js",
